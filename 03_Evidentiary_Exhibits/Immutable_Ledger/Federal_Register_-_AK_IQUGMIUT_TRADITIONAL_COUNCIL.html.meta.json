@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+IQUGMIUT+TRADITIONAL+COUNCIL",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+IQUGMIUT+TRADITIONAL+COUNCIL",
+  "title": "Federal Register - AK IQUGMIUT TRADITIONAL COUNCIL",
+  "fetched_at": "2026-11-23T16:03:02.033617Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 132112,
+  "sha256": "9161b9584e76d5e3119fd2055e53d0500dfc7e50973107346e49c8bb3d440ff6",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
